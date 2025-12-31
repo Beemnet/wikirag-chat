@@ -4,6 +4,8 @@
 
 **WikiRAG Chat** is a single-page Streamlit application demonstrating a Retrieval-Augmented Generation (RAG) workflow with chat history. It uses LangChain and Chroma to ingest Wikipedia `.txt` documents, create embeddings, and enable retrieval for user queries. Users can ask questions, see context-aware follow-ups, and re-ingest documents to update the vector store. The app combines ingestion, retrieval, answer generation, and history-aware query rewriting into a clean, interactive interface.
 
+![screnshot - streamlit app sample](image.png)
+
 ## Project Structure
 
 - `ingestion_pipeline.py` – Load `.txt` documents from `docs/`, split into chunks, create embeddings, and store them in a Chroma vector database.
