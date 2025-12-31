@@ -1,0 +1,6 @@
+langchain==1.2.0
+langchain_community==0.4.1
+langchain_text_splitters==1.1.0
+langchain_ollama==1.0.1
+langchain_chroma==1.1.0
+streamlit==1.52.2

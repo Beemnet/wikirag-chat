@@ -1,0 +1,7 @@
+.env
+db/
+docs/
+
+OllamaSetup.exe
+
+__pycache__
