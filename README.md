@@ -51,8 +51,6 @@ The chat history shows user queries and assistant answers for previous questions
 - **You:** "When did that happen?"
 - **Assistant:** "Microsoft completed its acquisition on October 26, 2018."
 
-![Streamlit App Screenshot](screenshot.png)
-
 ## Notes
 
 - The ingestion pipeline supports editing or adding documents and re-ingesting to update embeddings.
